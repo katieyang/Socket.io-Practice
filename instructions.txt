@@ -1,0 +1,4 @@
+1. Download node.js
+2. npm init (fill in details)
+3. npm install express --save
+4. npm install sockets.io --save
